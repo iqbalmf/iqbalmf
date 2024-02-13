@@ -2,8 +2,8 @@
 
 I am Iqbal Fauzan, currently working as a Mobile Developer at IGLO, I love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
-[![Gmail Badge](https://img.shields.io/badge/-yoshuaconstantine.k@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdraanik12@gmail.com)](mailto:iqbalmf68@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/yoshuaconstantin-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/rashedul.alam.anik.2/)](https://www.facebook.com/iqbalmf1/)
+[![Gmail Badge](https://img.shields.io/badge/-iqbalmf68@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdraanik12@gmail.com)](mailto:iqbalmf68@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/iqbalmf1-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/rashedul.alam.anik.2/)](https://www.facebook.com/iqbalmf1/)
 
 
 ## ⚡ Technologies
