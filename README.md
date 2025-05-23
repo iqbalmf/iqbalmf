@@ -6,16 +6,20 @@ I am Iqbal Fauzan, currently working as a Software Engineer at IGLO, I love writ
 [![Gmail Badge](https://img.shields.io/badge/-iqbalmf68@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdraanik12@gmail.com)](mailto:iqbalmf68@gmail.com)
 [![Linkedind Badge](https://img.shields.io/badge/iqbalmf1-1877F2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.facebook.com/rashedul.alam.anik.2/)](https://linkedin.com/in/iqbalmf)
 
+## 🧑🏻‍💻Current Learn & Project
+Build Pangrupa, a platform that can find your photo from photographer, build using Go + Python as Image processing. Also learn how microservice systems work
+
 
 ## ⚡ Technologies
 
 ![Flutter](https://img.shields.io/badge/Flutter-Android%2FIOS%20Dev-blue)
 ![Java](https://img.shields.io/badge/Java%20&%20Kotlin-%20Android%20Dev-green)
-![Javascript](https://img.shields.io/badge/NodeJs%20-ExpressJS-yellow)
+![Java](https://img.shields.io/badge/Java%20&%20Kotlin-Springboot-orange)
+![Go](https://img.shields.io/badge/Go-blue)
 ![Javascript](https://img.shields.io/badge/NodeJs%20-ReactJs-blue)
 ![CSS](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwindcss)
-![Sequelize](https://img.shields.io/badge/-Sequelize-black?style=flat-square&logo=sequelize)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 <h3 align="left">Languages and Tools:</h3>
