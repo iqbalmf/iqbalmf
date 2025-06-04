@@ -1,5 +1,5 @@
 
-### Hello 👋
+## Hello 👋
 
 I am Iqbal Fauzan, currently working as a Software Engineer at IGLO, I love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
@@ -8,23 +8,17 @@ I am Iqbal Fauzan, currently working as a Software Engineer at IGLO, I love writ
 
 ## 🧑🏻‍💻Current Learn & Project
 Build Pangrupa, a platform that can find your photo from photographer, build using Go + Python as Image processing. Also learn how microservice systems work
-
-
-## ⚡ Technologies
-
-![Flutter](https://img.shields.io/badge/Flutter-Android%2FIOS%20Dev-blue)
-![Java](https://img.shields.io/badge/Java%20&%20Kotlin-%20Android%20Dev-green)
-![Java](https://img.shields.io/badge/Java%20&%20Kotlin-Springboot-orange)
-![Go](https://img.shields.io/badge/Go-blue)
-![Javascript](https://img.shields.io/badge/NodeJs%20-ReactJs-blue)
-![CSS](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwindcss)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="expressjs" width="40" height="40"/> </a><a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="40" height="40"/> </a> </p>
+ 
+### ⚡ Tools
+|:green_book: Lang| :ledger: Framework  | :orange_book: DBMS|:blue_book: Other |
+|---|---|---|---|
+| Java  | Springboot|  MySQL | Railways  |
+| Kotlin  | FastApi |  PostgreSQL | TailwindCss |
+| Go  | Flask | MongoDB | |
+| Python  | Nextjs  | Realm  | |
+| Dart | Flutter | Firebase | |
+| Javascript | Jetpack Compose | Supabase | |
+| Typescript | | | |
 
 
 ![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=iqbalmf&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
